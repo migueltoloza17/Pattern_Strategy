@@ -1,0 +1,7 @@
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\STRATEGY\Pattern.STRATEGY\Pattern.STRATEGY\bin\Debug\Pattern.STRATEGY.exe.config
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\STRATEGY\Pattern.STRATEGY\Pattern.STRATEGY\bin\Debug\Pattern.STRATEGY.exe
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\STRATEGY\Pattern.STRATEGY\Pattern.STRATEGY\bin\Debug\Pattern.STRATEGY.pdb
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\STRATEGY\Pattern.STRATEGY\Pattern.STRATEGY\obj\Debug\Pattern.STRATEGY.csprojAssemblyReference.cache
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\STRATEGY\Pattern.STRATEGY\Pattern.STRATEGY\obj\Debug\Pattern.STRATEGY.csproj.CoreCompileInputs.cache
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\STRATEGY\Pattern.STRATEGY\Pattern.STRATEGY\obj\Debug\Pattern.STRATEGY.exe
+D:\CURSO_PATRONES_DISEÑO\Tareas\1\STRATEGY\Pattern.STRATEGY\Pattern.STRATEGY\obj\Debug\Pattern.STRATEGY.pdb
